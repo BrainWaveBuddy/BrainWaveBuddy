@@ -21,12 +21,14 @@ Background in real-time medical systems, clinical trial support, and data pipeli
 
 Interested in computational neurophysiology, wearable sensing, brain-computer interfaces, and objective biomarkers of brain states. 🧠📊
 
+💼 Open to opportunities in: Neurotechnology, Medical Device R&D, Research Software Engineering
+
 # Primary languages:
 - Python
 - C++
 - Matlab
 
-# Fields of interest:
+# Focus areas:
 - Neurophysiology
 - Embedded programming
 - Wearable sensing, Brain Computer Interfaces
