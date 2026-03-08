@@ -20,3 +20,13 @@ I am a Research engineer specializing in high-performance Python/C++ pipelines f
 Background in real-time medical systems, clinical trial support, and data pipeline optimization. MSc Biomedical Engineering from DTU Copenhagen.
 
 Interested in computational neurophysiology, wearable sensing, brain-computer interfaces, and objective biomarkers of brain states. 🧠📊
+
+# Primary languages:
+- Python
+- C++
+- Matlab
+
+# Fields of interest:
+- Neurophysiology
+- Embedded programming
+- Wearable sensing, Brain Computer Interfaces
